@@ -1,0 +1,33 @@
+.js{
+	text-align: center;
+}
+ol{
+	text-align: justify;
+	font-style: bold;
+	font-size: 25px;
+}
+.name{
+	color: green;
+	font-style: italic;
+	font-family: serif;
+}
+#instructions{
+	text-transform: uppercase;
+	color: red;
+}
+button{
+	color: white;
+	background: green;
+}
+body{
+	/*background-image: url(img/back.jpeg);
+	background-color: blue;*/
+}
+ #team{
+	color:#5C3566FF;
+}
+.name::before{
+
+	content: url(back.jpeg)
+}
+
